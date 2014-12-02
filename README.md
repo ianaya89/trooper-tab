@@ -1,4 +1,3 @@
-## Developing Google Chrome Extensions Source Code
+## Trooper Tab
 
-Here's the source code for the Nettuts+ article on Developing Google Chrome 
-Extensions, written by Krasimir Tsonev.
+This is tab chrome extension with fancy clock of a Star Wars Tropper.
