@@ -1,3 +1,4 @@
 ## Trooper Tab
 
-This is tab chrome extension with fancy clock of a Star Wars Tropper.
+This is a tab chrome extension with a clock of a fancy Star Wars Tropper designed by [Aleks][https://github.com/achudars].
+
